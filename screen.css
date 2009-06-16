@@ -1,6 +1,10 @@
+h3 { margin-bottom: 0; }
+
+.meta { margin-bottom: 0; font-size: .8em; }
+
 .alt { color: #666; font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif; font-style: italic; font-weight: normal; }
 .smaller { font-size: .7em; }
 
-.event { background: url(images/tango/office-calendar.png) no-repeat left center; padding-left: 40px; }
-.email { background: url(images/tango/internet-mail.png) no-repeat left center; padding-left: 40px; }
-.planet { background: url(images/tango/internet-news-reader.png) no-repeat left center; padding-left: 40px; }
+.event { background: url(images/tango/office-calendar.png) no-repeat left top; padding-left: 40px; min-height: 40px; }
+.email { background: url(images/tango/internet-mail.png) no-repeat left top; padding-left: 40px; }
+.planet { background: url(images/tango/internet-news-reader.png) no-repeat left top; padding-left: 40px; }
